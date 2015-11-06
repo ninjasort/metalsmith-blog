@@ -1,5 +1,7 @@
 # Building a blog with ES6 and Metalsmith
 
+[Read the post here](http://cameronjroe.com/writing/building-a-blog-in-es6-with-metalsmith/)
+
 ### Installation
 
 1. Clone the repo
@@ -18,6 +20,3 @@ npm run build
 ```sh
 serve build
 ```
-
-
-Read the post [here]()
