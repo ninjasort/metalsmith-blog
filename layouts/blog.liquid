@@ -1,3 +1,6 @@
+{% extends base %}
+
+{% block content %}
 <div class="posts">
   <ul class="posts__list">
     {% for post in collections.posts %}
@@ -7,3 +10,4 @@
     {% endfor %}
   </ul>
 </div>
+{% endblock %}

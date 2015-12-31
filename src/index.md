@@ -1,5 +1,5 @@
 ---
-layout: base.liquid
+layout: index.liquid
 title: World Traveler
 permalink: false
 ---
