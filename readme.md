@@ -1,22 +1,14 @@
-# Building a blog with ES6 and Metalsmith
 
-[Read the post here](http://cameronjroe.com/writing/building-a-blog-in-es6-with-metalsmith/)
+# Creating a blog with ES6 and Metalsmith
 
-### Installation
+Learn how to create a blog with ES6 and Metalsmith
 
-1. Clone the repo
+[Read the Post](http://velocitycoding.com/2015/11/06/creating-a-blog-with-es6-and-metalsmith)
 
-2. Install the packages
-```sh
-$ npm install
-```
+[View the Demo](http://velocity-coding.github.io/metalsmith-blog)
 
-3. Run the build
-```sh
-npm run build
-```
+# Usage
 
-4. Start a server
-```sh
-serve build
-```
+- Clone the repo
+- Install `npm install`
+- Run `npm run build`

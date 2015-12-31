@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-blog",
   "version": "1.0.0",
-  "description": "A simple blog using Metalsmith.",
+  "description": "Learn how to create a blog with ES6 and Metalsmith.",
   "main": "index.js",
   "scripts": {
     "build": "babel-node build.js"
