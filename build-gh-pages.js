@@ -9,6 +9,10 @@ import htmlMinifier from 'metalsmith-html-minifier';
 import fs from 'fs';
 
 Metalsmith(__dirname)
+<<<<<<< HEAD
+=======
+  .destination('gh-pages')
+>>>>>>> source
   .use(collections({
     posts: {
       pattern: 'blog/!(index).md',
