@@ -38,3 +38,4 @@ Metalsmith(__dirname)
   .build(function () {
     console.log('Cheers!');
   });
+  
